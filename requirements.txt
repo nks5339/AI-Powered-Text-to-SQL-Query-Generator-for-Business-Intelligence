@@ -1,0 +1,46 @@
+# Core dependencies
+streamlit
+pandas
+numpy
+
+# Database
+mysql-connector-python
+SQLAlchemy
+
+# AI & NLP
+openai
+google-generativeai
+langchain
+langchain-openai
+langchain-community
+faiss-cpu
+
+# Environment variables
+python-dotenv
+
+# Visualization
+matplotlib
+seaborn
+
+# Document processing
+openpyxl
+xlsxwriter
+fpdf
+
+# Other utilities
+Pillow
+
+
+streamlit
+mysql-connector-python
+openai
+pandas
+matplotlib
+seaborn
+python-dotenv
+google-generativeai
+fpdf
+xlsxwriter
+numpy
+langchain-community
+langchain-openai
